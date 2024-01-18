@@ -1,0 +1,54 @@
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.AssemblyReference.cache
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\Jeepney Rush\obj\Debug\Jeepney_Rush.Resources.resources
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.GenerateResource.cache
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.CoreCompileInputs.cache
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\Jeepney Rush\bin\Debug\Jeepney Rush.exe.config
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\Jeepney Rush\bin\Debug\Jeepney Rush.exe
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\Jeepney Rush\bin\Debug\Jeepney Rush.pdb
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\Jeepney Rush\obj\Debug\Jeepney Rush.exe
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\Jeepney Rush\obj\Debug\Jeepney Rush.pdb
+C:\Users\emman\Downloads\Jeepney Rush-V1\Jeepney Rush\bin\Debug\Jeepney Rush.exe.config
+C:\Users\emman\Downloads\Jeepney Rush-V1\Jeepney Rush\bin\Debug\Jeepney Rush.exe
+C:\Users\emman\Downloads\Jeepney Rush-V1\Jeepney Rush\bin\Debug\Jeepney Rush.pdb
+C:\Users\emman\Downloads\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.AssemblyReference.cache
+C:\Users\emman\Downloads\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney_Rush.Resources.resources
+C:\Users\emman\Downloads\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.GenerateResource.cache
+C:\Users\emman\Downloads\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.CoreCompileInputs.cache
+C:\Users\emman\Downloads\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.exe
+C:\Users\emman\Downloads\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.pdb
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\New folder\Jeepney Rush-V1\Jeepney Rush\bin\Debug\Jeepney Rush.exe.config
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\New folder\Jeepney Rush-V1\Jeepney Rush\bin\Debug\Jeepney Rush.exe
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\New folder\Jeepney Rush-V1\Jeepney Rush\bin\Debug\Jeepney Rush.pdb
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\New folder\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.AssemblyReference.cache
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\New folder\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney_Rush.Resources.resources
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\New folder\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.GenerateResource.cache
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\New folder\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.CoreCompileInputs.cache
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\New folder\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.exe
+D:\COLLEGEGEGE\2nd YR\IT11L - C#\Lab\neoron\Medyo Final Versions\New folder\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.pdb
+C:\Users\R.J. Borbe\Downloads\Jeepney Rush-V2\Jeepney Rush-V1\Jeepney Rush\bin\Debug\Jeepney Rush.exe.config
+C:\Users\R.J. Borbe\Downloads\Jeepney Rush-V2\Jeepney Rush-V1\Jeepney Rush\bin\Debug\Jeepney Rush.exe
+C:\Users\R.J. Borbe\Downloads\Jeepney Rush-V2\Jeepney Rush-V1\Jeepney Rush\bin\Debug\Jeepney Rush.pdb
+C:\Users\R.J. Borbe\Downloads\Jeepney Rush-V2\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.AssemblyReference.cache
+C:\Users\R.J. Borbe\Downloads\Jeepney Rush-V2\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney_Rush.Resources.resources
+C:\Users\R.J. Borbe\Downloads\Jeepney Rush-V2\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.GenerateResource.cache
+C:\Users\R.J. Borbe\Downloads\Jeepney Rush-V2\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.csproj.CoreCompileInputs.cache
+C:\Users\R.J. Borbe\Downloads\Jeepney Rush-V2\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.exe
+C:\Users\R.J. Borbe\Downloads\Jeepney Rush-V2\Jeepney Rush-V1\Jeepney Rush\obj\Debug\Jeepney Rush.pdb
+C:\Users\R.J. Borbe\Downloads\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\bin\Debug\Jeepney Rush.exe.config
+C:\Users\R.J. Borbe\Downloads\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\bin\Debug\Jeepney Rush.exe
+C:\Users\R.J. Borbe\Downloads\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\bin\Debug\Jeepney Rush.pdb
+C:\Users\R.J. Borbe\Downloads\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney Rush.csproj.AssemblyReference.cache
+C:\Users\R.J. Borbe\Downloads\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney_Rush.Resources.resources
+C:\Users\R.J. Borbe\Downloads\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney Rush.csproj.GenerateResource.cache
+C:\Users\R.J. Borbe\Downloads\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney Rush.csproj.CoreCompileInputs.cache
+C:\Users\R.J. Borbe\Downloads\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney Rush.exe
+C:\Users\R.J. Borbe\Downloads\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney Rush.pdb
+C:\Users\emman\Downloads\JeepneyRush_ZombieEscape (1)\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\bin\Debug\Jeepney Rush.exe.config
+C:\Users\emman\Downloads\JeepneyRush_ZombieEscape (1)\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\bin\Debug\Jeepney Rush.exe
+C:\Users\emman\Downloads\JeepneyRush_ZombieEscape (1)\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\bin\Debug\Jeepney Rush.pdb
+C:\Users\emman\Downloads\JeepneyRush_ZombieEscape (1)\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney Rush.csproj.AssemblyReference.cache
+C:\Users\emman\Downloads\JeepneyRush_ZombieEscape (1)\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney_Rush.Resources.resources
+C:\Users\emman\Downloads\JeepneyRush_ZombieEscape (1)\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney Rush.csproj.GenerateResource.cache
+C:\Users\emman\Downloads\JeepneyRush_ZombieEscape (1)\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney Rush.csproj.CoreCompileInputs.cache
+C:\Users\emman\Downloads\JeepneyRush_ZombieEscape (1)\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney Rush.exe
+C:\Users\emman\Downloads\JeepneyRush_ZombieEscape (1)\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\JeepneyRush_ZombieEscape\obj\Debug\Jeepney Rush.pdb
